@@ -1,0 +1,10 @@
+{ 
+    "_id" : ObjectId("60f2c674632a000094002e03"), 
+    "username" : "admin", 
+    "email" : "trent75@example.org", 
+    "email_verified_at" : ISODate("2021-07-17T12:00:52.692+0000"), 
+    "password" : "$2y$10$kW25m9i5uRfxSkZOAYLT7.jaklWN0xhYTnmygWUwJKxDvnXc852AO", 
+    "remember_token" : "eteMAxpkgg", 
+    "updated_at" : ISODate("2021-07-17T12:00:52.762+0000"), 
+    "created_at" : ISODate("2021-07-17T12:00:52.762+0000")
+}

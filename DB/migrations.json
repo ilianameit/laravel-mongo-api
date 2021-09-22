@@ -1,0 +1,25 @@
+{ 
+    "_id" : ObjectId("60f2b17ce9440000670066f3"), 
+    "migration" : "2014_10_12_100000_create_password_resets_table", 
+    "batch" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("60f2b17de9440000670066f4"), 
+    "migration" : "2019_08_19_000000_create_failed_jobs_table", 
+    "batch" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("60f2b17de9440000670066f5"), 
+    "migration" : "2021_07_17_102522_create_videos_table", 
+    "batch" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("60f2b17de9440000670066f6"), 
+    "migration" : "2021_07_17_102749_create_likes_table", 
+    "batch" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("60f2c674632a000094002e02"), 
+    "migration" : "2014_10_12_000000_create_users_table", 
+    "batch" : NumberInt(2)
+}
